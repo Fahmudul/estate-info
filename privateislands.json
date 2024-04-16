@@ -21,7 +21,7 @@
     "area": "50 acres",
     "location": "Fiji",
     "facilities": ["Luxury villas", "Helipad", "Diving center"],
-    "image": "private_island_image_url.jpg",
+    "image": "https://images.unsplash.com/photo-1605538032404-d7f061325b90?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "view_property_button": "View Property"
   },
   {
@@ -34,7 +34,7 @@
     "area": "10000 sq ft",
     "location": "Bel Air, Los Angeles",
     "facilities": ["Home theater", "Wine cellar", "Tennis court"],
-    "image": "mansion_image_url.jpg",
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?q=80&w=2075&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "view_property_button": "View Property"
   },
   {
@@ -60,7 +60,7 @@
     "area": "300 acres",
     "location": "Aspen, Colorado",
     "facilities": ["Ski-in/ski-out access", "Spa and wellness center", "Gourmet dining"],
-    "image": "mountain_retreat_image_url.jpg",
+    "image": "https://images.unsplash.com/photo-1561501900-3701fa6a0864?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "view_property_button": "View Property"
   },
   {
@@ -73,7 +73,7 @@
     "area": "15000 sq ft",
     "location": "Beverly Hills, California",
     "facilities": ["Infinity-edge pool", "Home automation system", "Private tennis court"],
-    "image": "hilltop_mansion_image_url.jpg",
+    "image": "https://th.bing.com/th/id/R.e78ec942c4b8028244d0973f8fde3c79?rik=vYW9i7lB1SkChA&pid=ImgRaw&r=0",
     "view_property_button": "View Property"
   }
 ]
