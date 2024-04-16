@@ -8,7 +8,7 @@
     "area": "20 acres",
     "location": "Bora Bora, French Polynesia",
     "facilities": ["Private bungalows", "Spa and wellness center", "Water sports activities"],
-    "image": "resort_image_url.jpg",
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "view_property_button": "View Property"
   },
   {
@@ -47,7 +47,7 @@
     "area": "2000 sq ft",
     "location": "Miami Beach, Florida",
     "facilities": ["Direct beach access", "Poolside cabanas", "Fitness center"],
-    "image": "beachfront_condo_image_url.jpg",
+    "image": "https://images.unsplash.com/photo-1609068806183-f5fbe6b06d28?q=80&w=2104&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "view_property_button": "View Property"
   },
   {
